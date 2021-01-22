@@ -10,8 +10,4 @@
 
     //Para destruir , colocar um tempo negativo.
 
-
-
-
-
 ?>
